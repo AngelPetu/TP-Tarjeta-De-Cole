@@ -10,3 +10,6 @@ Camino básico:
 Los pasos 2 y 3 pueden repetirse.
 4.	La Máquina imprime un ticket para el pasajero.
 5.	El Pasajero guarda el ticket.
+
+
+falta terminar...
