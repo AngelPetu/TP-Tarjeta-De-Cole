@@ -1,0 +1,15 @@
+Pagar un boleto de Colectivo
+
+Actores: máquina, pasajero.
+Precondiciones: el pasajero debe poseer una tarjeta con saldo.
+
+Camino básico: 
+1.	El pasajero  acerca la tarjeta magnética  a la máquina.
+2.	La Maquina recupera el saldo de la tarjeta y valida el monto para un pasaje normal.
+3.	Luego registra el descuento del pasaje en la tarjeta, y asienta el colectivo en la tarjeta.
+Los pasos 2 y 3 pueden repetirse.
+4.	La Máquina imprime un ticket para el pasajero.
+5.	El Pasajero guarda el ticket.
+
+
+falta terminar...
