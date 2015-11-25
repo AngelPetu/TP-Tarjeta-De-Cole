@@ -3,13 +3,13 @@ public class Colectivo {
 
 	private String empresa;
 	private String linea;
-	private int nro;
+	private int interno;
 	
 	Colectivo(){
 		
 		this.empresa = empresa;
 		this.linea = linea;
-		this.nro = nro;
+		this.interno = interno;
 		
 	}
 
@@ -29,12 +29,12 @@ public class Colectivo {
 		this.linea = linea;
 	}
 
-	public int getNro() {
-		return nro;
+	public int getInterno() {
+		return interno;
 	}
 
-	public void setNro(int nro) {
-		this.nro = nro;
+	public void setInterno(int interno) {
+		this.interno = interno;
 	}
 	
 	
